@@ -1,0 +1,1 @@
+The GDD content shows `Error: Reached max turns (1)` — the actual GDD wasn't included in your message. Please paste the GDD content and I'll write the GAME_SPEC.md.

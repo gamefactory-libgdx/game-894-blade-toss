@@ -1,0 +1,16 @@
+{
+  "generated": [
+    "icon_512.png",
+    "ui/main_menu.png",
+    "ui/stage_select.png",
+    "ui/game_screen.png",
+    "ui/stage_clear.png",
+    "ui/game_over.png",
+    "ui/leaderboard.png",
+    "ui/settings.png",
+    "ui/how_to_play.png",
+    "feature_banner.png"
+  ],
+  "failed": [],
+  "total_tokens": 22144
+}
